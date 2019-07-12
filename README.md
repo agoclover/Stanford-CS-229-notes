@@ -13,6 +13,10 @@ Bilibili中文字幕视频课程地址：https://www.bilibili.com/video/av141111
 
 原中文笔记翻译：[CycleUser](https://www.zhihu.com/people/cycleuser/activities)
 
+机器学习-学习交流群：903531752
+
+凸优化-学习交流群：869849661
+
 ## 本项目目录
 
 1. original_lecture：原始英文讲义。
