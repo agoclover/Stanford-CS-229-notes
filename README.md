@@ -21,4 +21,5 @@ Bilibili中文字幕视频课程地址：https://www.bilibili.com/video/av141111
 
 1. original_lecture：原始英文讲义。
 2. Chinese_lecture_Markdown：Kivy-CN翻译的中文讲义的Markdown格式。
-3. MyNotes_PDF：自己将2中的Markdown文件转化为PDF文件，并使用iPad App Notability进行标注后的笔记文件。
+3. Notes_zyx: CSDN上zhangyanxiang先生的翻译笔记。
+4. MyNotes_PDF：自己将2中的Markdown文件转化为PDF文件，并使用iPad App Notability进行标注后的笔记文件。
